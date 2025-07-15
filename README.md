@@ -22,3 +22,12 @@ The main components include:
 - ✅ Cosine similarity-based scoring
 - ✅ Clean and simple recommendation function
 - ✅ Easily customizable for new features or larger datasets
+
+
+Example Output
+If you input "Harry Potter", it might recommend:
+
+Party Monster
+Shattered Glass
+Home Alone 2: Lost in New York
+Barry Munday

@@ -28,6 +28,9 @@ Example Output
 If you input "Harry Potter", it might recommend:
 
 Party Monster
+
 Shattered Glass
+
 Home Alone 2: Lost in New York
+
 Barry Munday
